@@ -1,7 +1,7 @@
 # PathFinding
 Shortest path finding program , using DFS , BFS and Astar Algorithms.
 
-AI training system
+AI training system using python , pygame library.
 
 Commands:
 
